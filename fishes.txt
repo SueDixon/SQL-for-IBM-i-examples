@@ -1,6 +1,6 @@
 
 
-set schema "your schema name goes here";
+set schema sxdlib ;
 drop table fishes ;
 create table fishes  (
 	fish_name	for column name	char( 10 ) not null default
